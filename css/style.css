@@ -1,3 +1,8 @@
+header{
+    font-size: 25px;
+}
+
+
 #one{
     background-color: black;
 width: 150px;
@@ -29,4 +34,30 @@ background-color: purple;
     width: 7pc;
     height: 7pc;
 background-color: yellow;
+}
+
+#a{
+    background-color: saddlebrown;
+    width: 25vw;
+    height: 15vh;
+
+}
+
+#b{
+ background-color: yellowgreen;
+ width: 100vw;
+ height: 25vh;
+}
+
+#c{
+background-color: pink;
+width: 15%;
+height: 75%;
+}
+
+h1{
+    font-size: 4rem;
+}
+p{
+    font-size: 1.5em;
 }
